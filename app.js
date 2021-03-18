@@ -1,6 +1,4 @@
-window.addEventListener('click',() =>{
-  prompt();
-})
+
 window.addEventListener('keydown', function(e){
 
     //select corresponding audio
